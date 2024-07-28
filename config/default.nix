@@ -60,10 +60,8 @@
     ./utils/hardtime.nix
     ./utils/harpoon.nix
     ./utils/illuminate.nix
-    ./utils/jupytext.nix
     ./utils/markdown-preview.nix
     ./utils/mini.nix
-    ./utils/molten.nix
     ./utils/neodev.nix
     ./utils/neotest.nix
     ./utils/nvim-autopairs.nix
