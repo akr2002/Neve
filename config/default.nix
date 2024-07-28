@@ -63,6 +63,7 @@
     ./utils/jupytext.nix
     ./utils/markdown-preview.nix
     ./utils/mini.nix
+    ./utils/molten.nix
     ./utils/neodev.nix
     ./utils/neotest.nix
     ./utils/nvim-autopairs.nix
